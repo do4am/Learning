@@ -13,5 +13,5 @@
   - Implemented learning aglorithms with Tensorflow
   
   
- Tutorial: https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/ 
+ Tutorial: https://medium.com/@vishnumbaprof/case-study-loan-prediction-ac035f3ec9e4
  Link DataHack: https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/
